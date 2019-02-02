@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="11" failures="0" name="TestSuite" time="10.866" errors="0" skipped="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\LAPTOP-BCVHBJ42"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_144\jre"/>
+    <property name="VS150COMCOMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="LAPTOP-BCVHBJ42"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_144"/>
+    <property name="JOB_NAME" value="FreeCRMTestJob"/>
+    <property name="COMPUTERNAME" value="LAPTOP-BCVHBJ42"/>
+    <property name="ANDROID_HOME" value="C:\Users\sunil\AppData\Local\Android\Sdk"/>
+    <property name="COMPOSE_CONVERT_WINDOWS_PATHS" value="true"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="sunil"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 158 Stepping 9, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\sunil\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/FreeCRMTestJob/4/display/redirect?page=changes"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="BUILD_TAG" value="jenkins-FreeCRMTestJob-4"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\apache-maven-3.5.4 C:\Users\sunil\.jenkins\war\WEB-INF\lib\remoting-3.25.jar C:\Users\sunil\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar C:\Users\sunil\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 53555"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="c1bc5ebe15e1d98c"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_144/bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\spring-2.0.1.BUILD-SNAPSHOT\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\nodejs\;C:\Program Files\Cloud Foundry;C:\apache-ant-1.10.3-bin\apache-ant-1.10.3\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Bitvise SSH Client;C:\apache-maven-3.5.4\bin;C:\Program Files\Java\jdk1.8.0_144\bin;C:\Users\sunil\AppData\Local\Android\Sdk\tools\bin;C:\Users\sunil\AppData\Local\Android\Sdk\platform-tools;C:\Users\sunil\AppData\Local\Android\Sdk\emulator;C:\Users\sunil\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\sunil\AppData\Local\Programs\Python\Python36\;C:\Users\sunil\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\Microsoft VS Code\bin;;C:\Program Files\Docker Toolbox;C:\Users\sunil\AppData\Roaming\npm"/>
+    <property name="java.io.tmpdir" value="C:\Users\sunil\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\sunil\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/FreeCRMTestJob/4/"/>
+    <property name="DOCKER_CERT_PATH" value="C:\Users\sunil\.docker\machine\machines\default"/>
+    <property name="M2_HOME" value="C:\apache-maven-3.5.4"/>
+    <property name="=C:" value="C:\Users\sunil\Desktop\Work"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#4"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="c1bc5ebe15e1d98c"/>
+    <property name="MAVEN_HOME" value="C:\apache-maven-3.5.4"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\sunil\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="HOMEPATH" value="\Users\sunil"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="4"/>
+    <property name="maven3.interceptor" value="C:\Users\sunil\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\apache-maven-3.5.4/bin;C:\Program Files\Java\jdk1.8.0_144/bin;C:\Program Files\Java\jdk1.8.0_144/bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\spring-2.0.1.BUILD-SNAPSHOT\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\nodejs\;C:\Program Files\Cloud Foundry;C:\apache-ant-1.10.3-bin\apache-ant-1.10.3\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Bitvise SSH Client;C:\apache-maven-3.5.4\bin;C:\Program Files\Java\jdk1.8.0_144\bin;C:\Users\sunil\AppData\Local\Android\Sdk\tools\bin;C:\Users\sunil\AppData\Local\Android\Sdk\platform-tools;C:\Users\sunil\AppData\Local\Android\Sdk\emulator;C:\Users\sunil\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\sunil\AppData\Local\Programs\Python\Python36\;C:\Users\sunil\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\Microsoft VS Code\bin;;C:\Program Files\Docker Toolbox;C:\Users\sunil\AppData\Roaming\npm;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="com.qa.pom"/>
+    <property name="POM_ARTIFACTID" value="MavenE2EP"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/FreeCRMTestJob/"/>
+    <property name="OneDrive" value="C:\Users\sunil\OneDrive"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/FreeCRMTestJob/4/display/redirect"/>
+    <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="DOCKER_TLS_VERIFY" value="1"/>
+    <property name="JENKINS_HOME" value="C:\Users\sunil\.jenkins"/>
+    <property name="BUILD_ID" value="4"/>
+    <property name="TEMP" value="C:\Users\sunil\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="9e09"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="configsetroot" value="C:\WINDOWS\ConfigSetRoot"/>
+    <property name="HUDSON_HOME" value="C:\Users\sunil\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\apache-maven-3.5.4/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-BCVHBJ42"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_144"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\sunil"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/FreeCRMTestJob/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\sunil"/>
+    <property name="USERNAME" value="sunil"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="DOCKER_HOST" value="tcp://192.168.99.100:2376"/>
+    <property name="user.dir" value="C:\Users\sunil\eclipse-workspaceNewPractise\MavenE2EP"/>
+    <property name="maven.conf" value="C:\apache-maven-3.5.4\conf"/>
+    <property name="NO_PROXY" value="192.168.99.100"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\sunil\AppData\Local\Temp"/>
+    <property name="DOCKER_TOOLBOX_INSTALL_PATH" value="C:\Program Files\Docker Toolbox"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.144-b01"/>
+    <property name="java.class.path" value="C:\Users\sunil\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12.jar;C:\apache-maven-3.5.4\boot\plexus-classworlds-2.5.2.jar;C:\apache-maven-3.5.4/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="OneDriveConsumer" value="C:\Users\sunil\OneDrive"/>
+    <property name="WORKSPACE" value="C:\Users\sunil\.jenkins\workspace\FreeCRMTestJob"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_144-b01"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes"/>
+    <property name="DOCKER_MACHINE_NAME" value="default"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_144/bin"/>
+    <property name="=ExitCode" value="00000001"/>
+    <property name="user.country" value="CA"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\apache-maven-3.5.4"/>
+    <property name="JOB_BASE_NAME" value="FreeCRMTestJob"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="MavenE2EP"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="com.qa.pom.testcases.ContactsPageTest" name="verifyContactsLabel" time="0.036"/>
+  <testcase classname="com.qa.pom.testcases.HomepageTest" name="verifyHomePageTitleTest" time="0.006"/>
+  <testcase classname="com.qa.pom.testcases.LoginPageTest" name="loginPageTitleTest" time="0.09"/>
+  <testcase classname="com.qa.pom.testcases.ContactsPageTest" name="selectSingleContactsTest" time="0.09"/>
+  <testcase classname="com.qa.pom.testcases.HomepageTest" name="validateUserNameTest" time="0.074"/>
+  <testcase classname="com.qa.pom.testcases.LoginPageTest" name="crmLogoImageTest" time="0.045"/>
+  <testcase classname="com.qa.pom.testcases.ContactsPageTest" name="validateCreateNewContactTest" time="2.617"/>
+  <testcase classname="com.qa.pom.testcases.ContactsPageTest" name="validateCreateNewContactTest" time="2.512"/>
+  <testcase classname="com.qa.pom.testcases.ContactsPageTest" name="validateCreateNewContactTest" time="2.524"/>
+  <testcase classname="com.qa.pom.testcases.HomepageTest" name="contactsLinkTest" time="0.832"/>
+  <testcase classname="com.qa.pom.testcases.LoginPageTest" name="loginTest" time="2.04"/>
+</testsuite>
