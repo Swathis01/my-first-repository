@@ -1,0 +1,9 @@
+com\qa\pom\base\TestBase.class
+com\qa\pom\pages\DealsPage.class
+com\qa\pom\ExtentReportListener\ExtentReporterNG.class
+com\qa\pom\util\WebEventListener.class
+com\qa\pom\pages\LoginPage.class
+com\qa\pom\pages\HomePage.class
+com\qa\pom\pages\TasksPage.class
+com\qa\pom\util\TestUtil.class
+com\qa\pom\pages\ContactsPage.class
